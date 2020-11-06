@@ -215,3 +215,11 @@ Written By Kyle Halek - LahkLeKey@gmail.com
 20. Create Flexible Layouts Using auto-fit
 21. Use Media Queries to Create Responsive Layouts
 22. Create Grids within Grids
+
+### Responsive Web Design Projects
+
+1. Build a Tribute Page
+2. Build a Survey Form
+3. Build a Product Landing Page
+4. Build a Technical Documentation Page
+5. Build a Personal Portfolio Webpage
