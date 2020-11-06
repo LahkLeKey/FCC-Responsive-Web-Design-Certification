@@ -2,7 +2,7 @@
 
 Source code for completing the **Responsive Web Design Certification** from https://www.freecodecamp.org/learn/
 
-FCC Version 7.0 || July 2 2020 https://www.freecodecamp.org/news/python-curriculum-is-live/
+[FCC Version 7.0 || July 2 2020](https://www.freecodecamp.org/news/python-curriculum-is-live/).
 
 Written By Kyle Halek - LahkLeKey@gmail.com
 
