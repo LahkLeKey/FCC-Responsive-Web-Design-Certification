@@ -164,3 +164,10 @@ Written By Kyle Halek - LahkLeKey@gmail.com
 20. Make Links Navigable with HTML Access Keys
 21. Use tabindex to Add Keyboard Focus to an Element
 22. Use tabindex to Specify the Order of Keyboard Focus for Several Elements
+
+### Responsive Web Design Principles
+
+1. Create a Media Query
+2. Make an Image Responsive
+3. Use a Retina Image for Higher Resolution Displays
+4. Make Typography Responsive
