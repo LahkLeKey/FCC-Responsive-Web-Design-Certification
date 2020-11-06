@@ -190,3 +190,28 @@ Written By Kyle Halek - LahkLeKey@gmail.com
 15. Use the flex Shorthand Property
 16. Use the order Property to Rearrange Items
 17. Use the align-self Property
+
+### CSS Grid
+
+1. Create Your First CSS Grid
+2. Add Columns with grid-template-columns
+3. Add Rows with grid-template-rows
+4. Use CSS Grid units to Change the Size of Columns and Rows
+5. Create a Column Gap Using grid-column-gap
+6. Create a Row Gap using grid-row-gap
+7. Add Gaps Faster with grid-gap
+8. Use grid-column to Control Spacing
+9. Use grid-row to Control Spacing
+10. Align an Item Horizontally using justify-self
+11. Align an Item Vertically using align-self
+12. Align All Items Horizontally using justify-items
+13. Align All Items Vertically using align-items
+14. Divide the Grid Into an Area Template
+15. Place Items in Grid Areas Using the grid-area Property
+16. Use grid-area Without Creating an Areas Template
+17. Reduce Repetition Using the repeat Function
+18. Limit Item Size Using the minmax Function
+19. Create Flexible Layouts Using auto-fill
+20. Create Flexible Layouts Using auto-fit
+21. Use Media Queries to Create Responsive Layouts
+22. Create Grids within Grids
